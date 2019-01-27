@@ -1,6 +1,12 @@
 # Degree
+
+- degree: Doctor  
+  uni: Swufe
+  year: June, 2013 &mdash; January, 2015
+  # awards:
+  # summary: just a simple test
 - degree: Full Stack Webdeveloper Nanodegree
   uni: Udacity
   year: June, 2014 &mdash; January, 2015
-  # awards: 
-  # summary: 
+  awards: Most Dedicated Student per Optional Activities Completed
+
